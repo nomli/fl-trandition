@@ -617,7 +617,7 @@ footer p{
 }
 @media (max-width: 768px){
   .navbar-center.navbar-nav>li>a{
-    border-bottom: 2px solid #A49480;
+    border-bottom:1px solid #A49480;
     text-align: center;
   }
   .nav_social{
