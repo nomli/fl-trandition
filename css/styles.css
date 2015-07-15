@@ -591,10 +591,6 @@ footer p{
   .about_section h2{
     margin-bottom: 20px;
   }
-  .main_content-about-stack:nth-child(1) .stack_caption{
-    bottom:0;
-    display: none;
-  }
   .project_section_caption{
     width: auto;
   }
@@ -607,6 +603,12 @@ footer p{
   .facility_comp>div{
     padding-left:0;
     padding-right:10px;
+  }
+  .main_content-about-stack .stack_caption h2{
+    font-size: 14px;
+  }
+  .main_content-about-stack .stack_caption p{
+    font-size:12px;
   }
   .btn-primary{
       padding: 10px 0;
@@ -660,11 +662,11 @@ footer p{
     font-size:14px;
     left:50px
   }
-  .main_content-about-stack:nth-child(1) .stack_caption{
-    bottom:0;
-  }
-  .main_content-about-stack:nth-child(1) .stack_caption h2{
-    font-size:2rem;
+  .main_content-about-stack .stack_caption{
+    left:5% !important;
+    right: 0!important;
+    top:0;
+    width:80% !important;
   }
   .btn-container .btn{
     float: none;
