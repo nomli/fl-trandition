@@ -142,25 +142,9 @@ h2{
 .stacked img{
   width: 100%;
 }
-/*.stacked.pm{
-  background: url("../img/s1.jpg") no-repeat;
-  background-size: 100%;
-}
-.stacked.our_mission{
-  background: url("../img/s2.jpg") no-repeat;
-  background-size: 100%;
-}
-.stacked.our_vision{
-  background: url("../img/s3.jpg") no-repeat;
-  background-size: 100%;
-}*/
 .stacked p{
-  /*display: table-cell;
+
   font-size:20px;
-  vertical-align: middle;
-  color:#fff;
-  padding:0 100px;
-  position: absolute;*/
   color: #fff;
   position: absolute;
   top: 0;
