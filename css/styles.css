@@ -385,6 +385,12 @@ h2{
   width: 60px;
 
 }
+#project_section_carousel .item>.col-md-6.col-xs-6{
+  padding:0 !important;
+}
+#project_section_carousel .item .img-responsive{
+  width: 100%;
+}
 #pastProject_section_carousel .carousel-caption{
   top:40%;
 }
