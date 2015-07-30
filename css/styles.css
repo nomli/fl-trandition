@@ -563,9 +563,9 @@ footer p{
 }
 }
 @media (max-width: 1024px){
-  .navbar-brand img{
-    width: 100%
-  }
+	.navbar-brand img {
+		margin-left:10px;
+	}
   #home_carousel{
     max-height: 400px;
   }
